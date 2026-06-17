@@ -1,4 +1,4 @@
-## Hi there 👋
+[📄 View My Resume](./resume.pdf)
 
 <!--
 **Rai-Shikhar/Rai-Shikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
