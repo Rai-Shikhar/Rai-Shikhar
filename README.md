@@ -1,4 +1,4 @@
-[📄 View My Resume](./resume.pdf)
+[📄 View My Resume](./autoCV__1_-13.pdf)
 
 <!--
 **Rai-Shikhar/Rai-Shikhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
